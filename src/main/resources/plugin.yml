@@ -1,0 +1,14 @@
+###################################
+### Sample plugin by CacTt4ck   ###
+### https://github.com/CacTt4ck ###
+###################################
+
+api-version: 1.16
+name: SamplePlugin
+main: com.sample.sampleplugin.Main
+version: 1.0.0
+author: SampleAuthor
+database: false
+description: This is a sample plugin
+prefix: "[Sample Plugin]"
+load: STARTUP
